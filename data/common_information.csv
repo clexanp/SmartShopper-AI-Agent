@@ -1,0 +1,11 @@
+kategori,pertanyaan,jawaban
+pengiriman,Berapa lama proses pengiriman barang?,Estimasi pengiriman barang adalah 2 sampai 5 hari kerja tergantung lokasi pembeli dan jasa ekspedisi yang digunakan.
+pengiriman,Apakah saya bisa cek resi pengiriman?,Ya pembeli bisa mengecek resi melalui halaman pesanan setelah status pesanan berubah menjadi dikirim.
+pengiriman,Apakah tersedia pengiriman instan?,Pengiriman instan tersedia untuk area tertentu jika toko dan alamat pembeli berada dalam wilayah layanan instan.
+pembelian,Bagaimana cara membeli produk?,Pembeli dapat memilih produk memasukkan ke keranjang memilih metode pembayaran lalu menyelesaikan pembayaran.
+pembelian,Apakah bisa membatalkan pesanan?,Pesanan dapat dibatalkan selama belum diproses oleh penjual atau belum masuk tahap pengiriman.
+pembelian,Metode pembayaran apa saja yang tersedia?,Metode pembayaran yang tersedia meliputi transfer bank e-wallet virtual account dan pembayaran melalui minimarket.
+refund,Bagaimana cara mengajukan refund?,Refund dapat diajukan melalui halaman detail pesanan dengan memilih menu ajukan pengembalian dana dan mengisi alasan refund.
+refund,Berapa lama proses refund?,Proses refund biasanya membutuhkan waktu 3 sampai 7 hari kerja setelah pengajuan disetujui.
+refund,Apakah refund bisa ditolak?,Refund bisa ditolak jika alasan tidak sesuai kebijakan bukti tidak lengkap atau barang tidak memenuhi syarat pengembalian.
+retur,Bagaimana cara melakukan retur barang?,Retur barang dapat diajukan dari halaman pesanan dengan memilih ajukan retur lalu mengunggah alasan dan bukti pendukung.
