@@ -1,4 +1,4 @@
-# SmartShopper Assistant
+# SmartShopper AI Agent
 
 Mini project AI Agent Personalized SmartShopper Assistant untuk menangani dua kebutuhan utama:
 
